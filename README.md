@@ -60,7 +60,3 @@ The model achieves high accuracy on the MNIST dataset and correctly classifies t
 
 This project is licensed under the MIT License. Feel free to use and modify the code as per the license terms.
 
-## Contact
-
-For any questions or suggestions, please contact [Your Name] at [Your Email Address].
-
